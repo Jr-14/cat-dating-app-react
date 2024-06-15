@@ -1,7 +1,7 @@
 {
-  "name": "cat-dating-app",
+  "name": "cat-dating-app-frontend",
   "version": "0.1.0",
-  "description": "Cat Dating App in React and Fastify",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Jr-14/cat-dating-app-react/issues"
   },
-  "homepage": "https://github.com/Jr-14/cat-dating-app-react#readme",
-  "devDependencies": {
-    "typescript": "^5.4.5"
-  }
+  "homepage": "https://github.com/Jr-14/cat-dating-app-react#readme"
 }
